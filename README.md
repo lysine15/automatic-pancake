@@ -1,2 +1,2 @@
-# automatic-pancake
+#automatic-pancake
 generative art
